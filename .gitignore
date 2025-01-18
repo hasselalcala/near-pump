@@ -1,0 +1,13 @@
+/base_token/target
+/token_factory/target
+/base_token/justfile
+/token_factory/justfile
+/token_factory/.env
+/token_factory/README.md
+/base_token/README.md
+/token_factory/.DS_Store
+/base_token/.DS_Store
+.DS_Store
+/token_factory/token.sol
+/token_factory/tokenFactory.sol
+
