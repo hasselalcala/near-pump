@@ -1,0 +1,7 @@
+/target
+.env
+token.sol
+tokenFactory.sol
+.DS_Store
+justfile
+README.md
