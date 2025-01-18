@@ -1,4 +1,4 @@
-# NEAR Token Factory
+# NEAR pump
 
 A robust smart contract implementation for creating and managing fungible tokens on the NEAR Protocol blockchain, with built-in auction functionality for initial token distribution.
 
